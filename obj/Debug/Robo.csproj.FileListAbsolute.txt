@@ -1,0 +1,72 @@
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Robo.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Robo.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\WebDriver.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\WebDriver.Support.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\WebDriver.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\WebDriver.Support.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\obj\Debug\Robo.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\obj\Debug\Robo.csproj.CopyComplete
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\obj\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\obj\Debug\Robo.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\EPPlus.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\EPPlus.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Robo.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Robo.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\EPPlus.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\WebDriver.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\WebDriver.Support.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\EPPlus.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\WebDriver.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\bin\Debug\WebDriver.Support.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\obj\Debug\Robo.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\obj\Debug\Robo.csproj.CopyComplete
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\obj\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\pata git\Robo\obj\Debug\Robo.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Robo.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Robo.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\EPPlus.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\WebDriver.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\WebDriver.Support.dll
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\EPPlus.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\WebDriver.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\bin\Debug\WebDriver.Support.xml
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\obj\Debug\Robo.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\obj\Debug\Robo.csproj.CopyComplete
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\obj\Debug\Robo.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\Robo\obj\Debug\Robo.pdb
