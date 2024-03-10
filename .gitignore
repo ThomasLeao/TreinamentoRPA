@@ -19,3 +19,10 @@ obj/
 
 # Arquivos sensíveis
 credentials.txt
+/obj/Debug/Robo.pdb
+/obj/Debug/Robo.exe
+/obj/Debug/Robo.csproj.FileListAbsolute.txt
+/obj/Debug/Robo.csproj.CoreCompileInputs.cache
+/obj/Debug/Robo.csproj.AssemblyReference.cache
+/bin/Debug/Robo.pdb
+/bin/Debug/Robo.exe
