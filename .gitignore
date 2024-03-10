@@ -1,0 +1,21 @@
+# Pastas específicas a serem ignoradas
+.vs/
+bin/
+obj/
+
+# Arquivos compilados
+*.exe
+*.dll
+*.class
+*.jar
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Diretórios de dependências
+/node_modules
+/packages
+
+# Arquivos sensíveis
+credentials.txt
