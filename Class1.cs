@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using OfficeOpenXml;
 using System.IO;
 using System.Security.Policy;
+using OpenQA.Selenium.DevTools.V118.Browser;
 
 
 namespace Robo
@@ -24,7 +25,7 @@ namespace Robo
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
 
-            var chromeDriverPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\ChromeDriver.exe";
+            var chromeDriverPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Nova pasta\chromedriver-win64";
             var chromeOptions = new ChromeOptions();
 
 
@@ -35,13 +36,13 @@ namespace Robo
             var entrar = driver.FindElement(By.XPath("/html/body/app-root/div[2]/app-rpa1/div/div[1]/div[6]/button"));
             entrar.Click();
 
-            using (var package = new ExcelPackage(new FileInfo("C:\\Users\\thoma\\OneDrive\\Área de Trabalho\\Robo\\desafio.xlsx"))) 
+            using (var package = new ExcelPackage(new FileInfo("C:\\Users\\thoma\\OneDrive\\Área de Trabalho\\Robo\\TreinamentoRPA\\desafio.xlsx"))) 
 
             {
                 ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
 
             
-            //int numeroDePessoas = worksheet.Dimension.Rows - 1;
+            int numeroDePessoas = worksheet.Dimension.Rows;
 
                 for (int i = 2; i <= 11; i++)
                 {
