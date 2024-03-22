@@ -72,11 +72,6 @@ namespace Robo
                     Thread.Sleep(10);
                 }
             }
-
-            Thread.Sleep(500);
-            Console.ReadLine();
-            Console.WriteLine("batata");
-            Console.ReadLine();
             driver.Quit();
         }
     }
