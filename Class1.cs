@@ -1,17 +1,9 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.Events;
-using OpenQA.Selenium.Support.UI;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using OfficeOpenXml;
 using System.IO;
-using System.Security.Policy;
-using OpenQA.Selenium.DevTools.V118.Browser;
 
 
 namespace Robo
@@ -33,6 +25,7 @@ namespace Robo
 
             driver.Navigate().GoToUrl("https://rpachallenge.com/");
 
+         
             var entrar = driver.FindElement(By.XPath("/html/body/app-root/div[2]/app-rpa1/div/div[1]/div[6]/button"));
             entrar.Click();
 
@@ -55,37 +48,36 @@ namespace Robo
                     string phoneNumber = worksheet.Cells[i, 7].Text;
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelFirstName']")).SendKeys(firstName);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelLastName']")).SendKeys(lastName);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelCompanyName']")).SendKeys(companyName);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelRole']")).SendKeys(roleInCompany);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelAddress']")).SendKeys(address);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelEmail']")).SendKeys(email);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("//*[@ng-reflect-name='labelPhone']")).SendKeys(phoneNumber);
-                    Thread.Sleep(100);
+                    Thread.Sleep(10);
 
                     driver.FindElement(By.XPath("/html/body/app-root/div[2]/app-rpa1/div/div[2]/form/input")).Click();
-                    Thread.Sleep(1000);
+                    Thread.Sleep(10);
                 }
             }
 
             Thread.Sleep(500);
-
-
+            Console.ReadLine();
+            Console.WriteLine("batata");
             Console.ReadLine();
             driver.Quit();
         }
-
     }
 }
