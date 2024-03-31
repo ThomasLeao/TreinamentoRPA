@@ -4,11 +4,12 @@ using System;
 using System.Threading;
 using OfficeOpenXml;
 using System.IO;
+using System.Drawing.Imaging;
 
 
 namespace Robo
 {
-    internal class Class1
+    internal class AplicacaoRPA
     {
        
         static void Main()
@@ -19,13 +20,15 @@ namespace Robo
 
             var chromeDriverPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Nova pasta\chromedriver-win64";
             var chromeOptions = new ChromeOptions();
+            chromeOptions.AddArgument("--start-maximized");
 
 
             IWebDriver driver = new ChromeDriver(chromeDriverPath, chromeOptions);
 
             driver.Navigate().GoToUrl("https://rpachallenge.com/");
-
          
+
+
             var entrar = driver.FindElement(By.XPath("/html/body/app-root/div[2]/app-rpa1/div/div[1]/div[6]/button"));
             entrar.Click();
 
@@ -72,6 +75,12 @@ namespace Robo
                     Thread.Sleep(10);
                 }
             }
+            Thread.Sleep(2000);
+            Screenshot screenshot = ((ITakesScreenshot)driver).GetScreenshot();
+
+            string screenshotPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\TreinamentoRPA\Foto\screenshot.png"; // Nome do arquivo com extensão PNG
+
+            screenshot.SaveAsFile(screenshotPath);
             driver.Quit();
         }
     }
