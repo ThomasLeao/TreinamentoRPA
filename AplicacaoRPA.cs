@@ -75,7 +75,7 @@ namespace Robo
                     Thread.Sleep(10);
                 }
             }
-            Thread.Sleep(2500);
+            Thread.Sleep(3000);
             Screenshot screenshot = ((ITakesScreenshot)driver).GetScreenshot();
 
             string screenshotPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\TreinamentoRPA\Foto\screenshot.png"; // Nome do arquivo com extensão PNG
