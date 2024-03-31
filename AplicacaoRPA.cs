@@ -4,7 +4,6 @@ using System;
 using System.Threading;
 using OfficeOpenXml;
 using System.IO;
-using System.Drawing.Imaging;
 
 
 namespace Robo
@@ -78,7 +77,7 @@ namespace Robo
             Thread.Sleep(3000);
             Screenshot screenshot = ((ITakesScreenshot)driver).GetScreenshot();
 
-            string screenshotPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\TreinamentoRPA\Foto\screenshot.png"; // Nome do arquivo com extensão PNG
+            string screenshotPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\TreinamentoRPA\Foto\screenshot.png";
 
             screenshot.SaveAsFile(screenshotPath);
             driver.Quit();
