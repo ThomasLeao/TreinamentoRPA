@@ -17,7 +17,7 @@ namespace Robo
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
 
-            var chromeDriverPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Nova pasta\chromedriver-win64";
+            var chromeDriverPath = @"C:\Users\thoma\OneDrive\Área de Trabalho\Robo\TreinamentoRPA";
             var chromeOptions = new ChromeOptions();
             chromeOptions.AddArgument("--start-maximized");
 
