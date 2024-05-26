@@ -81,6 +81,7 @@ namespace Robo
 
             screenshot.SaveAsFile(screenshotPath);
             driver.Quit();
+            //top status
         }
     }
 }
